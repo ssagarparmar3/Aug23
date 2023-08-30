@@ -1,0 +1,4 @@
+*git clone 
+to clone the repository created on GitHub to local machine
+
+*git status
